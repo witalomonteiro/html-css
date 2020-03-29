@@ -1,0 +1,22 @@
+body {
+	background-color: #C8C8C8;
+	background-color: hsl(0,0%,78%);
+}
+
+h1 {
+	color: #fff;
+	background-color: DarkCyan;
+	padding: 25px;
+}
+
+h2 {
+	color: #fff;
+	background-color: #ee3e80;
+	padding: 25px;
+}
+
+p {
+	background-color: #ffffff;
+	background-color: hsla(0,100%,100%,0.5);
+	padding: 25px;
+}
